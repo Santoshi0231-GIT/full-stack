@@ -1,9 +1,0 @@
-# Ignore dependencies
-node_modules/
-
-# Ignore environment files
-.env
-
-# Ignore system files
-.DS_Store
-Thumbs.db
